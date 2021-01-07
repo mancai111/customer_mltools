@@ -1,3 +1,5 @@
+Provided by Professor Alexander Ihler in CS 178
+
 # Python Machine Learning Library
 
 This library provides some simple machine learning algorithms intended mainly for
